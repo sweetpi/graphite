@@ -1,7 +1,7 @@
 Graphite for jQuery Mobile
 ===========
 
-Requires: jQuery Mobile 1.3.1
+Requires: jQuery Mobile 1.4.0
 
 Graphite is a curated set of nice, simple, and clean jQuery Mobile themes based on the _default_ jQM swatches. It also comes with a generator script for building your own with a given base color and base highlight color. Since the themes are based on the default swatches, highlight swatches might not match the theme correctly for this release.
 
@@ -20,8 +20,8 @@ To generate a new color scheme using you're own custom colors you first need tp 
 The most basic version looks something like this.
 
 	name: candy
-	'source-theme': 'res/jqm/1.3.2/jquery.mobile-1.3.2.graphite.blue.css'
-	'jqm-version': '1.3.2'
+	'source-theme': 'res/jqm/1.4.0/jquery.mobile-1.4.0.css'
+	'jqm-version': '1.4.0'
 
 	base_color: &BASE_COLOR '#f75548'
 	secondary_color: &SECONDARY_COLOR '#ff6b5f'
