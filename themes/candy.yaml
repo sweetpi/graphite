@@ -1,7 +1,7 @@
 # Meta
 name: candy
-'jqm-version': '1.4.0'
-'source-theme': 'res/jqm/1.4.0/jquery.mobile-1.4.0.css'
+'jqm-version': '1.4.1'
+'source-theme': 'res/jqm/1.4.1/jquery.mobile-1.4.1.css'
 
 base_color: &BASE_COLOR '#f75548'
 secondary_color: &SECONDARY_COLOR '#ff6b5f'

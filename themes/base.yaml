@@ -1,7 +1,7 @@
 # Core
 
-'jqm-version': '1.4.0'
-'source-theme': 'res/jqm/1.4.0/jquery.mobile-1.4.0.css'
+'jqm-version': '1.4.1'
+'source-theme': 'res/jqm/1.4.1/jquery.mobile-1.4.1.css'
 
 'remove_css':
   - '.ui-bar-a|text-shadow'
@@ -52,6 +52,9 @@
 'a-header-bhover-border': *HIGHLIGHT_COLOR
 'a-header-bhover-color': '#fff'
 
+'a-body-shadow-y': '0px'
+'b-body-shadow-y': '0px'
+
 'a-bup-border': "#ccc"
 'a-bup-background-color': '#fff'
 'a-bhover-background-color': *SECONDARY_COLOR
@@ -60,11 +63,14 @@
 'a-bdown-background-color': *BASE_COLOR
 'a-bup-color': '#000'
 'a-bhover-shadow-y': '0px'
+'a-bup-shadow-y': '0px'
 'a-bdown-shadow-y': '0px'
+'a-active-shadow-y': '0px'
 'a-active-border': *BASE_COLOR
 'a-bdown-shadow-color': '#000'
 
 'b-bup-border': *BASE_COLOR
+'b-bdown-background-color': *BASE_COLOR
 'b-bhover-border': *BASE_COLOR
 'b-bup-background-color': *SECONDARY_COLOR
 'b-bhover-background-color': *BASE_COLOR
@@ -77,5 +83,6 @@
 'b-bhover-shadow-y': '0px'
 'b-bup-shadow-y': '0px'
 'b-bdown-shadow-y': '0px'
+'b-active-shadow-y': '0px'
 'b-bdown-shadow-color': '#000'
 'b-active-border': *BASE_COLOR

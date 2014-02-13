@@ -7,7 +7,7 @@ import tinycss
 
 import re
 
-CURRENT_JQM_VERSION = '1.4.0'
+CURRENT_JQM_VERSION = '1.4.1'
 
 DEFAULT_THEME = {
     'a': {
