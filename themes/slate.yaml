@@ -1,8 +1,8 @@
 # Meta
 name: slate
 
-'jqm-version': '1.4.1'
-'source-theme': 'res/jqm/1.4.1/jquery.mobile-1.4.1.css'
+'jqm-version': '1.4.2'
+'source-theme': 'res/jqm/1.4.2/jquery.mobile-1.4.2.css'
 'extra-css': 'themes/slate.custom.css'
 'use_base': 'false'
 

@@ -1,8 +1,8 @@
 # Meta
 name: sand
 
-'jqm-version': '1.4.1'
-'source-theme': 'res/jqm/1.4.1/jquery.mobile-1.4.1.css'
+'jqm-version': '1.4.2'
+'source-theme': 'res/jqm/1.4.2/jquery.mobile-1.4.2.css'
 
 base_color: &BASE_COLOR '#b29573'
 secondary_color: &SECONDARY_COLOR '#cbb294'

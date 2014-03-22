@@ -7,7 +7,7 @@ import tinycss
 
 import re
 
-CURRENT_JQM_VERSION = '1.4.1'
+CURRENT_JQM_VERSION = '1.4.2'
 
 DEFAULT_THEME = {
     'a': {
@@ -130,6 +130,9 @@ def gen_theme(settings_file):
     jqm_version = settings['jqm-version']
 
     theme_css = open(settings['source-theme'], 'r').read()
+    if 'base-extra-css' in settings:
+        base_extra_css = open(settings['base-extra-css'], 'r').read()
+        theme_css += base_extra_css
 
     del settings['name']
     del settings['jqm-version']
