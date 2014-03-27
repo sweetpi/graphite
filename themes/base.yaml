@@ -13,6 +13,7 @@
   - '.ui-body-a, .ui-overlay-a|text-shadow'
   - '.ui-body-c, .ui-overlay-c|text-shadow'
 
+'global-font-family': 'Helvetica,Arial,sans-serif'
 'global-radii-blocks': '0.2em'
 'global-radii-buttons': '0.2em'
 'global-box-shadow-size': '1px'
